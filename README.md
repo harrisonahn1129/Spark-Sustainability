@@ -4,7 +4,7 @@
 
 The mission of the project is to analyze the flood zones in Boston, and the predicted flood zones in Boston in the next few years. Given that flood zones have increased in Boston, compare them with the implemented green infrastructure to analyze how well they perform to prevent flooding, and in which area the green infrastructure needs to be developed further.
 
-## Steps to duplicate the project
+## Suggested steps
 
 Details of the base project can be found in [Document.ipynb](https://github.com/harrisonahn1129/Spark-Sustainability/blob/main/Document.ipynb)
 
